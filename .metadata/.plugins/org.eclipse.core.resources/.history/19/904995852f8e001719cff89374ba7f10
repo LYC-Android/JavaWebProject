@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- LOGO区 -->
+	<div>
+		<p>此处应该是一张图片</p>
+	</div>
+	<!-- 内容区 -->
+	
+	<div>
+	<h1>我是标题</h1>
+	<p>第1段</p>
+	<p>第2段</p>
+	<p>第3段</p>
+	<p>第4段</p>
+	<p>第5段</p>
+	<p>第6段</p></div>
+	<!-- 版权区 -->
+	<div>
+		<h1>盗版,违者必究</h1>
+	</div>
+</body>
+</html>

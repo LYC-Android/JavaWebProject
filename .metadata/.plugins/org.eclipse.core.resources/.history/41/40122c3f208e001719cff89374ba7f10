@@ -1,0 +1,13 @@
+<!-- 声明网页的版本 -->
+<!doctype html>
+<!-- HTML是唯一的根元素,只能存在一个 -->
+<html>
+<!-- 声明网页的基本信息 -->
+<head>
+<meta charset="utf-8">
+</head>
+<!-- 写网页的具体内容 -->
+<body>
+  Hellow World!你好。
+</body>
+</html>

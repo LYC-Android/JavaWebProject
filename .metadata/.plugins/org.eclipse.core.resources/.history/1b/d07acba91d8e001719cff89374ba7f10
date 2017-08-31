@@ -1,0 +1,5 @@
+<!-- HTML是唯一的根元素,只能存在一个 -->
+<html>
+   <head></head>
+   <body></body>
+</html>

@@ -56,19 +56,6 @@
 		    <label for="c1">我已经阅读了协议</label>
 		    
 		    </p>
-		     <!-- select:下拉选
-		          selected:设置默认选中
-		      -->
-		      城市:
-		      <select>
-		      <option>请选择</option>
-		          <option>上海</option>
-		          <option selected="selected">北京</option>
-		          
-		      </select>
-		    <p>
-		     
-		    </p>
     </form>
 </body>
 </html>

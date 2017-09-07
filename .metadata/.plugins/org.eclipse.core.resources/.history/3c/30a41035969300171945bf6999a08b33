@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <!-- 1.表单元素 用来声明数据提交的范围，只有在此元素内的数据可以提交给服务器 -->
+    <form action=""></form>
+    <!-- 2.表单控件:用户用来输入数据的 -->
+     <!-- 1.input元素(9个) 它们之间用type属性来区分. -->
+ 
+      <!-- 文本框 -->
+      <p>
+        账号:<input type="text" readonly="readonly" />
+      </p>
+      <!-- 密码框 -->
+    密码:<input type="password">
+    <!-- 单选框      组名:同一组radio互斥
+    check设置默认选中
+     -->
+    <p>
+     性别:
+     <input type="radio" name="sex" checked="checked"/>男
+     <input type="radio" name="sex" checked="checked"/>女
+    </p>
+    
+    <!-- 多选框 -->
+    
+   <!-- 2.其他元素(3个) -->
+    
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+/*2.类选择器:选择class等于某值的所有元素.class是程序猿根据逻辑给元素增加的分类*/
+.jishu{color: red;}
+</style>
+</head>
+<body>
+<p class="jishu">小一</p>
+<p class="oushu">小二</p>
+<p class="jishu">小三</p>
+<p class="oushu">小四</p>
+</body>
+</html>

@@ -15,21 +15,8 @@ font-size: 20px;
 
 /*5.派生选择器*/
 /*5.1选择某元素的子孙*/
- #paisheng u{
- color: red;
- }
 /*5.2选择某元素的儿子*/
-#paisheng>b{font-size: 24px;}
 
-/*6.伪类选择器:根据元素的状态选择元素.*/
-/*6.1选择未访问过的超链接*/
-a:link {
-	color: green;
-}
-/*6.2选择已访问过的超链接*/
-a:visited {
-	color: red;
-}
 </style>
 </head>
 <body>
@@ -38,42 +25,8 @@ a:visited {
 <p class="jishu">小三</p>
 <p id="si">小四</p>
 
-<p id="paisheng">
- 一<b>二<u>三</u>四</b>五<b>六</b>七八九十
-</p>
-
 <p>
- <a href="http://www.baidu.com">百度</a>
- <a href="http://www.qq.com">QQ</a>
+ 一<b>二<u>三</u>四</b>五<b>六</b>>七八九十
 </p>
-
-
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

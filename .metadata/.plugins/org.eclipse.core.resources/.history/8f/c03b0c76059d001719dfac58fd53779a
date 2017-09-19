@@ -27,9 +27,6 @@ a:link {
 	color: green;
 }
 /*6.2选择已访问过的超链接*/
-a:visited {
-	color: red;
-}
 </style>
 </head>
 <body>

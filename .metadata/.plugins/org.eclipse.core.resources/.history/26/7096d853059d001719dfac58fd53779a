@@ -23,13 +23,7 @@ font-size: 20px;
 
 /*6.伪类选择器:根据元素的状态选择元素.*/
 /*6.1选择未访问过的超链接*/
-a:link {
-	color: green;
-}
 /*6.2选择已访问过的超链接*/
-a:visited {
-	color: red;
-}
 </style>
 </head>
 <body>

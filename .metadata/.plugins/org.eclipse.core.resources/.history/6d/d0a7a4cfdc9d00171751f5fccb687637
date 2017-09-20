@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+/*1.四个边设置相同的边框*/
+p {
+	border:1px dashed blue;
+}
+/*2.单个边设置边框*/
+h1 {
+	border-left: 10px solid black;
+}
+
+/*3.块元素一般宽度默认是100%,高度会自适应,内容越多,它越高.当给它固定高度时可能会导致内容溢出.*/
+</style>
+</head>
+<body>
+	<h1>小一</h1>
+	<p>实力最强的一个弟子</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -30,6 +30,19 @@ a:link {
 a:visited {
 	color: red;
 }
+/*6.3选择激活状态(正在点)的按钮*/
+#i1:active {
+	background-color: blue;
+}
+/*6.4选择有焦点的文本框或者是密码框，或者是文本域*/
+#i2:focus {
+	background-color: green;
+}
+/*6.5选择鼠标悬停态(触碰)的图片*/
+#i3:hover {
+	width: 300px;
+	height: 300px;
+}
 </style>
 </head>
 <body>
@@ -47,7 +60,17 @@ a:visited {
  <a href="http://www.qq.com">QQ</a>
 </p>
 
+<p>
+  <input type="button" id="i1" value="click Me">
+</p>
 
+<p>
+<input type="text" id="i2" />
+</p>
+
+<p>
+<img alt="" src="../images/dog.jpg" id="i3">
+</p>
 </body>
 </html>
 

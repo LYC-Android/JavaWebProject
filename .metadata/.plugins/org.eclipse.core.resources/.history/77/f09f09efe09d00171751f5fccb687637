@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+div {
+	border: 1px solid red;
+	width: 100px;
+	height: 100px; 
+}
+/*1.四个边设置相同的边距*/
+#d1{
+padding: 20px;
+margin: 30px;
+}
+/*2.四个边设置不同的边距,按照上右下左的数序*/
+#d2{
+padding: 20px 30px 40px 50px;
+margin: 20px 30px 40px 50px;
+}
+/*3.单个边设置边距*/
+#d3{
+padding-left: 30px;
+margin-left: 40px;
+}
+/*4.对边设置相同的边距 上下 左右*/
+#d4{
+padding: 20px 40px;
+margin: 30px 10px;
+}
+/*5.对边设置边距的特例*/
+</style>
+</head>
+<body>
+<div id="d0">d0</div>
+<div id="d1">d1</div>
+<div id="d2">d2</div>
+<div id="d3">d3</div>
+<div id="d4">d4</div>
+<div id="d5">d5</div>
+<div id="d6">d6</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

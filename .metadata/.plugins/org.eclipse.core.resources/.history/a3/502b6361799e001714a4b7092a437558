@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>管理员列表</title>
+<link rel="stylesheet" href="list.css">
+</head>
+<body>
+<!-- LOGO区 -->
+<div class="logo"></div>
+<!-- 菜单区 -->
+<div class="menu"></div>
+<!-- 核心区 -->
+<div class="core">
+ <!-- 渐变条:不用单独分区,直接设置背景即可,但需要预留出控件 -->
+
+</div>
+<!-- 版权区 -->
+<div class="copy"></div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

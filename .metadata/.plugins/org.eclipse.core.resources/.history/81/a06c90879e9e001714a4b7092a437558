@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+/*1.设置背景图*/
+body {
+    padding:70px;
+	background-image: url("../images/dog.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+</style>
+</head>
+<body >
+
+</body>
+</html>

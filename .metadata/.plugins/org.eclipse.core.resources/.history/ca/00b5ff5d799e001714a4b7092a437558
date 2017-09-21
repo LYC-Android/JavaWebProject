@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>管理员列表</title>
+<link rel="stylesheet" href="list.css">
+</head>
+<body>
+<!-- LOGO区 -->
+<div class="logo"></div>
+<!-- 菜单区 -->
+<div class="menu"></div>
+<!-- 核心区 -->
+<div class="core"></div>
+<!-- 版权区 -->
+<div class="copy"></div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
